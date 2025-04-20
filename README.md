@@ -17,7 +17,8 @@ Always open to collaboration, learning, or working on meaningful projects. Feel 
 ## Frameworks
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%2314354C.svg?style=for-the-badge&logo=pytorch&logoColor=white&color=red)
-![ollama](https://img.shields.io/badge/Ollama-%2314354C.svg?style=for-the-badge&logo=ollama&logoColor=white&color=purple)
+![ollama](https://img.shields.io/badge/Ollama-%2314354C.svg?style=for-the-badge&logo=ollama&logoColor=white&color=fedcba)
+![Flask](https://img.shields.io/badge/Flask-%2314354C.svg?style=for-the-badge&logo=flask&logoColor=white&color=grey)
 
 
 ---

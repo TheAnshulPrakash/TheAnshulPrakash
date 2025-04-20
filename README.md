@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Anshul!
 
-I love building things — whether that means writing backend logic, working on real-time hardware integrations, or experimenting with AI models.
+I love building things — whether that means writing backend logic oro clean code, working on real-time hardware integrations, or experimenting with AI models.
 
 I enjoy working across both software and hardware. My projects often involve microcontrollers, voice control systems, and local AI integrations. I’ve also been exploring deep learning with PyTorch and bckend development
 

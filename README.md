@@ -2,7 +2,7 @@
 
 I love building things — whether that means writing backend logic or clean code, working on real-time hardware integrations, or experimenting with AI models.
 
-I enjoy working across both software and hardware. My projects often involve microcontrollers, voice control systems, and local AI integrations. I’ve also been exploring deep learning with PyTorch and bckend development
+I enjoy working across both software and hardware. My projects involve microcontrollers, voice control systems, and local AI integrations. I’ve also been exploring deep learning with PyTorch and bckend development
 
 Always open to collaboration, learning, or working on meaningful projects. Feel free to connect!
 

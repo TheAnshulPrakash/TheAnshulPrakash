@@ -18,7 +18,14 @@ Always open to collaboration, learning, or working on meaningful projects. Feel 
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%2314354C.svg?style=for-the-badge&logo=pytorch&logoColor=white&color=red)
 ![ollama](https://img.shields.io/badge/Ollama-%2314354C.svg?style=for-the-badge&logo=ollama&logoColor=white&color=fedcba)
-![Flask](https://img.shields.io/badge/Flask-%2314354C.svg?style=for-the-badge&logo=flask&logoColor=white&color=grey)
+![OpenAi](https://img.shields.io/badge/OpenAi-%2314354C.svg?style=for-the-badge&logo=OpenAi&logoColor=white&color=8F8F8F)
+![Flask](https://img.shields.io/badge/Flask-%2314354C.svg?style=for-the-badge&logo=flask&logoColor=white&color=804000)
+![Sphinx](https://img.shields.io/badge/Sphinx-%2314354C.svg?style=for-the-badge&logo=Sphinx&logoColor=white&color=CC6CE7)
+
+## Microcontrollers I work with
+
+![Espressif](https://img.shields.io/badge/Espressif-%2314354C.svg?style=for-the-badge&logo=Espressif&logoColor=white&color=gray)
+![Arduino](https://img.shields.io/badge/Arduino-%2314354C.svg?style=for-the-badge&logo=Arduino&logoColor=white&color=teal)
 
 
 ---
